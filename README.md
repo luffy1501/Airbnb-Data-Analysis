@@ -60,5 +60,5 @@ python data_processing.py
 This project is licensed under the MIT License.  
 
 ---  
-🔗 **Contributors:** [Your Name], [Your Team]  
-📩 **Contact:** your.email@example.com  
+🔗 **Contributors: Vinay Alapure 
+📩 **Contact: alapurevinay@gmail.com
