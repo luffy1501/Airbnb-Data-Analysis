@@ -23,6 +23,8 @@ This project analyzes Airbnb listings to uncover insights into **pricing trends,
 ✅ **Scalability** – Can be extended with real-time data from the Airbnb API  
 
 ## 📊 Power BI Dashboard Components
+![Screenshot 2025-04-07 140032](https://github.com/user-attachments/assets/3f746394-7bee-4e68-9f7c-f5fd62811a68)
+
 - **KPI Cards:** Total Listings, Average Price, Top Hosts  
 - **Bar Charts:** Price distribution by city, host earnings  
 - **Pie Charts:** Room type distribution  
