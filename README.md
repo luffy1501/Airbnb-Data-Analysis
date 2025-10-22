@@ -40,8 +40,8 @@ This project analyzes Airbnb listings to uncover insights into **pricing trends,
 ## 🔧 Installation & Setup
 1️⃣ Clone this repository:  
 ```sh
-git clone https://github.com/yourusername/airbnb-data-analysis.git
-cd airbnb-data-analysis
+git clone https://github.com/luffy1501/Airbnb-data-analysis.git
+cd Airbnb-data-analysis
 ```  
 2️⃣ Install dependencies:  
 ```sh
